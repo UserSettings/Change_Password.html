@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<html:html xmlns:html='http://www.w3.org/1999/xhtml'>
-<html:script>
-alert("XSS found by vishnu dfx");
-</html:script>
-</html:html>
